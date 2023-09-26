@@ -1,0 +1,4 @@
+superuser username: admin
+password: admin321
+
+all other users' password: testing321
